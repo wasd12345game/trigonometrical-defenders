@@ -1,0 +1,33 @@
+{
+    "name": "Trigonometrical Defenders",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-tilemap-a-star": "github:jwunderl/arcade-tilemap-a-star#v0.4.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "Notifications": "github:UnsignedArduino/Notifications#de6517dcc280cafe902ef212f59d4f55a982c7ec",
+        "Inventory": "github:UnsignedArduino/Inventory#v1.1.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.17",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
