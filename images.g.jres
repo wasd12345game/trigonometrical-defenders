@@ -4,10 +4,30 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "cursor"
     },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAALC7u7u7AACQu/zPzLwAAJu7zPzPvAAAm7vMzPy8AACbu8z8z7wKCru5/M/MvKqqu7nM/M+8qqq7uczM/LwKCru5zPzPvAAAm7v8z8y8AACbu8z8z7wAAJu7zMz8vAAAkLvM/M+8AAAAsLu7u7sAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "sine"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAALC7u7u7AACQu8z/zLwAAJu7/MzMvAAAm7vM/8y8AACbu8zM/7wKCru5zP/MvKqqu7n8zMy8qqq7ucz/zLwKCru5zMz/vAAAm7vM/8y8AACbu/zMzLwAAJu7zP/MvAAAkLvMzP+8AAAAsLu7u7sAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cosine"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAALC7u7u7AACQu8z//7wAAJu7/PzMvAAAm7v8/My8AACbu8z//7wKCru5zMzMvKqqu7n8//+8qqq7uczM/LwKCru5zMz8vAAAm7vMzMy8AACbu/z//7wAAJu7zMz8vAAAkLvMzPy8AAAAsLu7u7sAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "univ"
+    },
     "image1": {
         "data": "hwQPAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA/w8AAAAAAAD/DwAAAAAAAP8PAAAAAAAA/w8AAAAA//////8PAAD//////w8AAP//////DwAAAAD/DwAAAAAAAP8PAAAAAAAA/w8AAAAAAAD/DwAAAAAAAAAAAAAAAAAAAAAAAAA=",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "plus"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADADAAAAAAAALzLAAAAAAAAvMsAAAAAAADADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "projectile"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

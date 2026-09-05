@@ -7,7 +7,8 @@
         "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
         "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
         "Notifications": "github:UnsignedArduino/Notifications#de6517dcc280cafe902ef212f59d4f55a982c7ec",
-        "Inventory": "github:UnsignedArduino/Inventory#v1.1.1"
+        "Inventory": "github:UnsignedArduino/Inventory#v1.1.1",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0"
     },
     "files": [
         "main.blocks",
